@@ -1,4 +1,4 @@
-#Implementation of a call stack   
+Implementation of a call stack   
 Based on a set of recorded call stack snapshots, an execution tree of the program is formed, which 
 can then be converted into a graph. Implemented the following with a level order traversal: forming 
 a tree by loading a set of program stacks from a text file, adding and removing program stack from 

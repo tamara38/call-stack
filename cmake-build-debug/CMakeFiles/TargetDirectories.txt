@@ -1,0 +1,3 @@
+C:/Users/Mira/CLionProjects/asp/cmake-build-debug/CMakeFiles/asp.dir
+C:/Users/Mira/CLionProjects/asp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mira/CLionProjects/asp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
